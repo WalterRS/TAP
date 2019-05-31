@@ -1,0 +1,17 @@
+.root {
+    -fx-background-color: #b7baad;
+}
+.tab {
+
+    -fx-pref-width: 270;
+    -fx-pref-height:60;
+    -fx-font: 20 arial;
+    -fx-base: #ba9383;
+}
+.tab-header-background {
+    -fx-background-color:transparent;
+}
+
+.tab-pane{
+    -fx-padding: 0 -1 -1 -1;
+}
